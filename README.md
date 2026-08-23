@@ -10,9 +10,6 @@
 ## 🛠️ 技能栈
 * **编程语言**：Python(学习中)👊
 
-## 📈 GitHub 数据
-< img align="left" src="https://komarev.com/ghpvc/?username=[wyz1203346]&color=blue&style=flat" alt="访问量统计">
-
 ## 📫 联系我
 * **Email**：wyz1203346@qq.com
 * **微信**：wyz13692461864
